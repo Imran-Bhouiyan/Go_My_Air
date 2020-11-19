@@ -1,0 +1,10 @@
+{
+    "python.languageServer": "Microsoft",
+    "html.trace.server": "verbose",
+    "html.format.endWithNewline": true,
+    "html.format.indentHandlebars": true,
+    "html.format.indentInnerHtml": true,
+    "html-css-class-completion.enableEmmetSupport": true,
+    "debug.javascript.autoAttachFilter": "onlyWithFlag",
+    "json.trace.server": "verbose"
+}
